@@ -1,0 +1,13 @@
+.estatik-metabox-wrap {
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.estatik-metabox-wrap label {
+    font-weight: bold;
+}
+
+#address {
+    width: 500px;
+}
